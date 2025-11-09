@@ -1,4 +1,4 @@
-<img src "https://media.licdn.com/dms/image/v2/D4E16AQHL-jVMmGdUww/profile-displaybackgroundimage-shrink_350_1400/B4EZo7.R6BJ0AY-/0/1761942775152?e=1764201600&v=beta&t=rb9qbURxbZT-Cx0Dna_1Xe2gdiNhKUXkfn8Kn3L_FjE">
+<img src "https://media.licdn.com/dms/image/v2/D4E16AQHL-jVMmGdUww/profile-displaybackgroundimage-shrink_350_1400/B4EZo7.R6BJ0AY-/0/1761942775152?e=1764201600&v=beta&t=rb9qbURxbZT-Cx0Dna_1Xe2gdiNhKUXkfn8Kn3L_FjE ">
 <h3 align="center">Experienced Front-end & Back-end Web Designer, Developer & WordPress Specialist. Helping Businesses and Creators Professional, High-Performing & Building Functional Websites for Businesses and Entrepreneurs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokarram1&label=Profile%20views&color=0e75b6&style=flat" alt="mokarram1" /> </p>
